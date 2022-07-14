@@ -1,11 +1,12 @@
 ## Olá!Eu sou a Danielle Queiroz ##
-##
-- 👋 Pronomes: utilizar os pronomes ela/dela.
-- 👀 Estudo Engenharia da Computação na Univesidade Virtual do estado de São Paulo.
-- 🌱 Atualmente estudo duas linguagens: Python e Java. Mas ando me aventurando po Javascript, angular...#muitoAAprender.
+#
+- 👋 Pronomes: ela/dela.
+- 👀 Curso Engenharia da Computação na Univesidade Virtual do estado de São Paulo - UNIVESP.
+- 🌱 Atualmente me dedico ao estudo de duas linguagens: Python e Java. Mas ando me aventurando po Javascript, angular...#muitoAAprender.
 - 📫Como me encontrar?! Você pode me enviar um email: danielle.queiroz76@gmail.com ou me adicionar lá no Linkedin.
-- ✨ Obrigada por sua visita! Nos vemos em breve.
-- 
+
+## Obrigada por sua visita! Espero revê-lo em breve. 💖
+
 
 <div>
   <a href="https://github.com/danielle1306">
